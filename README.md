@@ -17,21 +17,34 @@ AirCanvas Pro is a gesture-controlled virtual drawing application built with Pyt
 *>(Ai) Project,* 
 
 🧠Tech Behind it : 
+          
           •Python
+          
           •OpenCV
+          
           •Numpy
+          
           •MediaPipe Hands
+         
           •Simple Logic
+         
           •Visual Studio
 🖥️Things I have added to this so far :
+         
           •Pen drawing tracking
+          
           •Pastel Colors
+          
           •Clear, Undo, Save, Erase, Pen size Change options
+         
           •Save, quit Shortcut options
 
 ⏳Things to do in the next update : 
+         
           •Hand Tracking System 
+         
           •Remove a pen and use a Finger Option
+         
           •Add many tools
 
 Beginner ------> Advance Level 👏🏼
