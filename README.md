@@ -3,10 +3,15 @@ AirCanvas Pro is a gesture-controlled virtual drawing application built with Pyt
 *> Features :* 
 
 • Hand Pen tracking using webcam
+
 • Draw in air like a real canvas
+
 • Multiple color selection
+
 • Eraser mode
+
 • Real-time performance
+
 • Built with OpenCV
 
 🧠Tech Behind it : 
